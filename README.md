@@ -1,6 +1,16 @@
 # Algorithm_Training
 
 
+전체 문제 제목
+-----------------------------------------
+
+![image](https://user-images.githubusercontent.com/24507556/137348677-75b63b7d-4b9d-4d6c-8337-a6967b7ee064.png)
+![image](https://user-images.githubusercontent.com/24507556/137348700-8b92743d-8d21-4c48-a92f-e46a4ec6504b.png)
+![image](https://user-images.githubusercontent.com/24507556/137348721-1dc51198-085e-444a-a6d3-d2491f9dffdc.png)
+
+
+예식장 문제 참고
+-----------------------------------------
 
 [M1_10_minco _ 예식장 서빙.pdf](https://github.com/lianachoi/Algorithm_Training/files/6378384/M1_10_minco._.pdf)
 
